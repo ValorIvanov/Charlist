@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CharList_For_MM</string>
+    <string name="mightText">Мощь</string>
+    <string name="reactionText">Реакция</string>
+    <string name="mentalMightText">Ментальная мощь</string>
+    <string name="concentrationText">Концентрация</string>
+    <string name="charisnText">Харизма</string>
+    <string name="massiveText">Массивность</string>
+    <string name="coloumTitleParam">Параметр</string>
+    <string name="coloumTitleNominal">Номинал</string>
+    <string name="coloumTitleTekushee">Текущее</string>
+</resources>
